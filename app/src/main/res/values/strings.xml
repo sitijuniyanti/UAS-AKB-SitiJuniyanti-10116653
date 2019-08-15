@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">UASApp10116653</string>
+    <string name="title_activity_navigation">UASApp10116653</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Hello, </string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="isi_home">Halo Selamat Datang di Aplikasi saya, ini adalah halaman Home.
+    Untuk melihat profil saya klik menu disebelah kiri lalu pencet profil. Untuk melihat kontak saya tekan menu kontak.
+    Untuk melihat daftar teman tekan Daftar teman. Untuk keluar dari aplikasi ini, tekan signout. Selamat Menikmati ya!</string>
+    <string name="menu_profil">Profil</string>
+    <string name="menu_kontak">Kontak</string>
+    <string name="menu_daftar_teman">Daftar Teman</string>
+    <string name="menu_sign_out">Sign Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Home">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Profil">Profil Saya</string>
+    <string name="profil_nim">10116653</string>
+    <string name="profil_nama">Siti Juniyanti</string>
+    <string name="profil_kelas">IF 13</string>
+    <string name="profil_desk">Saya biasa dipanggil Anty, saya menyukai kopi dan saya sedang benar-benar
+                                menyukai pembuatan aplikasi android. Walaupun belum sempurna, tugas ini saya kerjakan dengan semangat.
+                                Tahun ini saya mendaftar beasiswa android dari dicoding yaitu indosat developer camp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Kontak">Kontak saya</string>
+    <string name="kontak_telepon">085656064177</string>
+    <string name="kontak_email">sitijuniyanti@gmail.com</string>
+    <string name="kontak_sosmed">sitijuniyantii</string>
+
+</resources>

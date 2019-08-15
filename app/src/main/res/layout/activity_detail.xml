@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    tools:context=".DetailActivity">
+
+    <EditText
+        android:id="@+id/etNimA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="NIM"
+        android:inputType="number"/>
+
+    <EditText
+        android:layout_below="@id/etNimA"
+        android:id="@+id/etNamaA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nama"
+        android:inputType="textPersonName"/>
+
+    <EditText
+        android:layout_below="@id/etNamaA"
+        android:id="@+id/etKelasA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Kelas"
+            android:inputType="textPersonName"/>
+
+        <EditText
+            android:layout_below="@id/etKelasA"
+            android:id="@+id/etTeleponA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Nomor Telepon"
+            android:inputType="number"/>
+        <EditText
+            android:layout_below="@id/etTeleponA"
+            android:id="@+id/etEmailA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email"
+            android:inputType="textEmailAddress"/>
+
+        <EditText
+            android:layout_below="@id/etEmailA"
+            android:id="@+id/etSosmedA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Sosial Media"
+            android:inputType="textPersonName"/>
+    <LinearLayout
+            android:layout_below="@id/etNamaA"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="200dp"
+            android:layout_centerHorizontal="true">
+        <Button
+            android:id="@+id/btnUpdate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Perbarui"/>
+
+        <Button
+            android:id="@+id/btnHapus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hapus"/>
+
+        <Button
+            android:id="@+id/btnCancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Kembali"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,71 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".View.AddTemanFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/nimA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:hint="NIM"/>
+
+        <EditText
+            android:id="@+id/namaA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Nama"
+            android:inputType="textPersonName"/>
+
+        <EditText
+            android:id="@+id/kelasA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Kelas"
+            android:inputType="textPersonName"/>
+
+        <EditText
+            android:id="@+id/teleponA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Nomor Telepon"
+            android:inputType="textPersonName"/>
+        <EditText
+            android:id="@+id/emailA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email"
+            android:inputType="textPersonName"/>
+
+        <EditText
+            android:id="@+id/sosmedA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Sosial Media"
+            android:inputType="textPersonName"/>
+
+
+        <Button
+            android:id="@+id/btnSimpanA"
+            android:layout_marginTop="20dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Simpan"/>
+
+        <Button
+            android:id="@+id/btnTampilA"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Lihat Mahasiswa"/>
+
+
+    </LinearLayout>
+
+</RelativeLayout>

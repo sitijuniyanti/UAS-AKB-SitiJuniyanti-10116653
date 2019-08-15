@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".View.ProfilFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="1dp"
+        android:text="@string/Profil"
+        android:textAlignment="center"
+        android:textSize="30dp" />
+
+    <ImageView
+        android:layout_width="210dp"
+        android:layout_height="187dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="50dp"
+        android:src="@drawable/fotoprofil" />
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="220dp"
+        android:text="@string/profil_nim"
+        android:textAlignment="center"
+        android:textSize="25dp" />
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop= "250dp"
+        android:text="@string/profil_nama"
+        android:textAlignment="center"
+        android:textSize="25dp" />
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop= "280dp"
+        android:text="@string/profil_kelas"
+        android:textAlignment="center"
+        android:textSize="25dp" />
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop= "310dp"
+        android:text="@string/profil_desk"
+        android:textAlignment="center"
+        android:textSize="20dp" />
+
+
+
+</FrameLayout>
