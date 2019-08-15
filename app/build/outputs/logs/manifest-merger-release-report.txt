@@ -1,0 +1,225 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [io.realm:realm-android-library:5.13.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\9e76c1e1113d18a329db09aeb58d33ea\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\d844ec4433214b3f138b8d459e834bb4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\5186d5589d5387a27b817de05fe400d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\94b76ef0d96f7c0bd268721b9e84c3cd\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\0e6c1926c5595c5a2a879e97dc63e10a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\71474a5715c0881dea2dc45158c64266\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\54ab9c2e3525a1fe0d80df2338f62b2c\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\a14933669cf6e21d1e29478e95fcac28\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\28df8f6905528b73dc6a5cc3112fa7eb\AndroidManifest.xml:2:1-12:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8902637772b8aefb1867d68c3fec9d68\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\01971671c2fa7f989b4b026d5e694c81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\245e670bb482feff397824385e14781a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\a3177b0bec3e1a7d5552e39f6b1b7292\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\1c5941d797fe7e49d5f38cb8278cc27b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\18dbdfd53c48f696d552e2849f403767\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8bd20a4c2a3d3e7ae2511e231690a89d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\85e67353bb2412dfcae208a683c8f77d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\6fa3cba4c6ff203d854f8901d5cdfccf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\e3f8a7f450385144f20e00ff52ac07ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8525448ffa8850dc921c569018f5c654\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\66b85777b486bbaeb07baaa5d09e6007\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\d2c33a941a7bfb9447951f2e482f4ef9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\e596ac797875972cb8e5af31388a5096\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\49da0ae3a4d56b0358277e3d335374ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\7e850bea03a090cf2b7477cc4259ae74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\d167df1bdd875c1041120372a97b6afd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\7721bc7211528ab7df1dfe6877c925d1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\b0a10f66e4820842b6a2dc0d94edc5cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\f6355496861d651cc800678770f0ed48\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\d2186eec85fa0388420be158e911a621\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\e8ac89051fb96ad9172e672038e35d4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\88b1734daed0424eb6e8720b331b869f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\ceccae8ff31ee84d1214140fc7c5a4f6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\d0f38d1024fd71fa0cc4ad914dc11e9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\b9219b2bd50d3cb45460068f4e4bca90\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\69ba22df523fc571dbbff287fe7c69b3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\137c08c78a6867868f1159bd8f4f3c2d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\ac06bc11fc783d4c29a66b26fe37b906\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:5:5-29:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\d844ec4433214b3f138b8d459e834bb4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\d844ec4433214b3f138b8d459e834bb4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\94b76ef0d96f7c0bd268721b9e84c3cd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\94b76ef0d96f7c0bd268721b9e84c3cd\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\a14933669cf6e21d1e29478e95fcac28\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\a14933669cf6e21d1e29478e95fcac28\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\28df8f6905528b73dc6a5cc3112fa7eb\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\28df8f6905528b73dc6a5cc3112fa7eb\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\d167df1bdd875c1041120372a97b6afd\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\d167df1bdd875c1041120372a97b6afd\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\7721bc7211528ab7df1dfe6877c925d1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\7721bc7211528ab7df1dfe6877c925d1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\f6355496861d651cc800678770f0ed48\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\f6355496861d651cc800678770f0ed48\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\d167df1bdd875c1041120372a97b6afd\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:6:9-46
+activity#com.sitijuniyanti.uasapp10116653.ViewPagerActivity
+ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:13:9-64
+	android:name
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:13:19-52
+activity#com.sitijuniyanti.uasapp10116653.NavigationActivity
+ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:14:9-17:68
+	android:label
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:16:13-62
+	android:theme
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:15:13-47
+activity#com.sitijuniyanti.uasapp10116653.SplashScreenActivity
+ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:18:19-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.sitijuniyanti.uasapp10116653.DetailActivity
+ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:25:9-52
+	android:name
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:25:19-49
+activity#com.sitijuniyanti.uasapp10116653.SharedPreferences.LoginActivity
+ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:26:9-69
+	android:name
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:26:19-66
+activity#com.sitijuniyanti.uasapp10116653.MainActivity
+ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:27:19-47
+activity#com.sitijuniyanti.uasapp10116653.SharedPreferences.RegisterActivity
+ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:28:9-72
+	android:name
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml:28:19-69
+uses-sdk
+INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml
+INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml
+MERGED from [io.realm:realm-android-library:5.13.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\9e76c1e1113d18a329db09aeb58d33ea\AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library:5.13.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\9e76c1e1113d18a329db09aeb58d33ea\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\d844ec4433214b3f138b8d459e834bb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\d844ec4433214b3f138b8d459e834bb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\5186d5589d5387a27b817de05fe400d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\5186d5589d5387a27b817de05fe400d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\94b76ef0d96f7c0bd268721b9e84c3cd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\94b76ef0d96f7c0bd268721b9e84c3cd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\0e6c1926c5595c5a2a879e97dc63e10a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\0e6c1926c5595c5a2a879e97dc63e10a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\71474a5715c0881dea2dc45158c64266\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\71474a5715c0881dea2dc45158c64266\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\54ab9c2e3525a1fe0d80df2338f62b2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\54ab9c2e3525a1fe0d80df2338f62b2c\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\a14933669cf6e21d1e29478e95fcac28\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\a14933669cf6e21d1e29478e95fcac28\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\28df8f6905528b73dc6a5cc3112fa7eb\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\28df8f6905528b73dc6a5cc3112fa7eb\AndroidManifest.xml:6:5-8:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8902637772b8aefb1867d68c3fec9d68\AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8902637772b8aefb1867d68c3fec9d68\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\01971671c2fa7f989b4b026d5e694c81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\01971671c2fa7f989b4b026d5e694c81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\245e670bb482feff397824385e14781a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\245e670bb482feff397824385e14781a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\a3177b0bec3e1a7d5552e39f6b1b7292\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\a3177b0bec3e1a7d5552e39f6b1b7292\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\1c5941d797fe7e49d5f38cb8278cc27b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\1c5941d797fe7e49d5f38cb8278cc27b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\18dbdfd53c48f696d552e2849f403767\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\18dbdfd53c48f696d552e2849f403767\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8bd20a4c2a3d3e7ae2511e231690a89d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8bd20a4c2a3d3e7ae2511e231690a89d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\85e67353bb2412dfcae208a683c8f77d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\85e67353bb2412dfcae208a683c8f77d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\6fa3cba4c6ff203d854f8901d5cdfccf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\6fa3cba4c6ff203d854f8901d5cdfccf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\e3f8a7f450385144f20e00ff52ac07ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\e3f8a7f450385144f20e00ff52ac07ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8525448ffa8850dc921c569018f5c654\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\8525448ffa8850dc921c569018f5c654\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\66b85777b486bbaeb07baaa5d09e6007\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\66b85777b486bbaeb07baaa5d09e6007\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\d2c33a941a7bfb9447951f2e482f4ef9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\d2c33a941a7bfb9447951f2e482f4ef9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\e596ac797875972cb8e5af31388a5096\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\e596ac797875972cb8e5af31388a5096\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\49da0ae3a4d56b0358277e3d335374ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\49da0ae3a4d56b0358277e3d335374ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\7e850bea03a090cf2b7477cc4259ae74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\7e850bea03a090cf2b7477cc4259ae74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\d167df1bdd875c1041120372a97b6afd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\d167df1bdd875c1041120372a97b6afd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\7721bc7211528ab7df1dfe6877c925d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\7721bc7211528ab7df1dfe6877c925d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\b0a10f66e4820842b6a2dc0d94edc5cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\b0a10f66e4820842b6a2dc0d94edc5cd\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\f6355496861d651cc800678770f0ed48\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\f6355496861d651cc800678770f0ed48\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\d2186eec85fa0388420be158e911a621\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\d2186eec85fa0388420be158e911a621\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\e8ac89051fb96ad9172e672038e35d4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\e8ac89051fb96ad9172e672038e35d4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\88b1734daed0424eb6e8720b331b869f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\88b1734daed0424eb6e8720b331b869f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\ceccae8ff31ee84d1214140fc7c5a4f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\ceccae8ff31ee84d1214140fc7c5a4f6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\d0f38d1024fd71fa0cc4ad914dc11e9c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\d0f38d1024fd71fa0cc4ad914dc11e9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\b9219b2bd50d3cb45460068f4e4bca90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\b9219b2bd50d3cb45460068f4e4bca90\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\69ba22df523fc571dbbff287fe7c69b3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\69ba22df523fc571dbbff287fe7c69b3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\137c08c78a6867868f1159bd8f4f3c2d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\137c08c78a6867868f1159bd8f4f3c2d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\ac06bc11fc783d4c29a66b26fe37b906\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\ac06bc11fc783d4c29a66b26fe37b906\AndroidManifest.xml:20:5-44
+INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml
+INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml
+		ADDED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BelajarAndroid\UASApp10116653\app\src\main\AndroidManifest.xml
